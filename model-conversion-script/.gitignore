@@ -1,0 +1,39 @@
+# Ignore downloaded model files
+config.json
+merges.txt
+model.safetensors
+pytorch_model.bin
+special_tokens_map.json
+tokenizer_config.json
+tokenizer.json
+training_args.bin
+vocab.json
+.gitattributes
+logo_no_bg.png
+
+# Ignore runs directory with TensorBoard logs
+runs/
+
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Keep essential files (these won't be ignored)
+# convert_to_torchscript.py
+# model.properties
+# model.pt
+# README.md
+# requirements.txt
+# test_model.py

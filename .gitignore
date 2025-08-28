@@ -1,0 +1,44 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEs and editors
+.idea/
+*.iml
+*.ipr
+*.iws
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python (for model-conversion-script)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+ENV/
+venv/
+
+# Misc
+*.swp
+*.swo
+
+# Reports
+/reports/
+
+# Test output
+/test-output/

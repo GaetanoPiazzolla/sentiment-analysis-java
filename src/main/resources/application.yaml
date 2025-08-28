@@ -1,0 +1,6 @@
+sentiment:
+  model-dir: ${MODEL_DIR:model-conversion-script}
+
+logging:
+  level:
+    gae.piaz.sentiment: INFO
