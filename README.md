@@ -4,8 +4,7 @@ For explanation refer to article [Sentiment Analysis in Java](https://gaetanopia
 
 ---
 
-Real-World Application: [BullSentiment.com](bullsentiment.com)
-This exact architecture powers BullSentiment.com, where we:
+This exact architecture powers  [BullSentiment.com](bullsentiment.com), where we:
 
 - Process thousands of financial news articles daily
 - Provide real-time sentiment scores for stocks
